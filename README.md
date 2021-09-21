@@ -6,4 +6,14 @@
 
 The website has three main pages: Home, About, and Blog, which displays all previously written blog posts.  Parts I, II and III were all finished on 2021/09/21.
 
-Four posts are up as of 2021/09/21.
+### Home
+
+This webpage is nothing special, just a welcome page with my name.
+
+### About
+
+This webpage is the About Me page, which contains details about myself and my motivation in making this project.  This will be updated in the near future.
+
+### Blog
+
+This webpage contains all previously written blog posts up to 2021/09/21.  Four posts are up as of 2021/09/21.
