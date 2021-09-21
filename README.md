@@ -5,3 +5,5 @@
 ### This website was made using Jekyll.
 
 The website has three main pages: Home, About, and Blog, which displays all previously written blog posts.  Parts I, II and III were all finished on 2021/09/21.
+
+Three posts are up as of 2021/09/21.
